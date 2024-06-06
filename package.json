@@ -1,0 +1,11 @@
+{
+    "name": "medeva-backend-orm",
+    "version": "1.0.0",
+    "description": "RESTful API medeva-backend with ORM",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Helmi Pradita",
+    "license": "ISC"
+}
