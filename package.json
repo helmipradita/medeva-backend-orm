@@ -1,7 +1,7 @@
 {
     "name": "medeva-backend-orm",
     "version": "1.0.0",
-    "description": "RESTful API medeva-backend with ORM",
+    "description": "RESTful API medeva-backend with ORM Prisma",
     "main": "src/main.js",
     "scripts": {
         "test": "jest"
